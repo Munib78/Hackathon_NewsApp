@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="466a2fc2-27bb-4dc8-99f2-86fad0ec17a0" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/NewsApp/AccountService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="bb83e4e5-6119-4049-8f40-49d37eb49de7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NewsApp/AccountService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="aa075a41-e5d0-49fa-9e34-5e6fdb655780" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NewsApp/AccountService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="56931c2f-d041-4bd6-a456-991f11be22f7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NewsApp/AccountService/mex" />
+    <MetadataFile FileName="NewsApp.Models.xsd" MetadataType="Schema" ID="6b6597f0-5ae1-45c1-aba1-46b1f5d3ec05" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/NewsApp/AccountService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
